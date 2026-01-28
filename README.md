@@ -29,19 +29,9 @@ class Pyroxyl(Engineer):
 
 ---
 
-## Tech Stack
-
-| `Lignum` (Structure & Roots) | `Ignis` (Energy & Computation) |
-|:----------------------------:|:------------------------------:|
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
-
----
-
 <div align="center">
 
 $f(x) = \underbrace{\text{Roots}}_{\text{Math/Sys}} + \int \text{Innovation} \cdot dt$
 
-[Email](mailto:your@email.com) · [LinkedIn](https://linkedin.com/in/yourprofile) · [Blog](https://yourblog.com)
-
+[Email](mailto:fongjheng@gmail.com) 
 </div>
